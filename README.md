@@ -13,3 +13,7 @@ Build a phone case out of popsicle sticks.
 Build a shirt out of mason jars.
 ```
 Rerun the script as need until you get an idea that sparks joy!
+
+### Customizing project ideas
+You can add objects and materials in the `objects.py` and `materials.py` files under the `/src` folder.
+You can remove any objects and materials you don't like too.
